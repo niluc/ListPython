@@ -1,5 +1,3 @@
-import numpy as np
-
 
 def main():
     f = open("DNSList.txt", "r")
